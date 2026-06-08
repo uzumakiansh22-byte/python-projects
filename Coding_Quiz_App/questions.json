@@ -1,0 +1,264 @@
+{
+    "Python": [
+        {
+            "question": "What is the correct extension for Python files?",
+            "options": [".py", ".java", ".cpp", ".html"],
+            "answer": ".py"
+        },
+        {
+            "question": "Which function is used to display text on the screen in Python?",
+            "options": ["print()", "echo()", "show()", "display()"],
+            "answer": "print()"
+        },
+        {
+            "question": "Which symbol starts a comment in Python?",
+            "options": ["#", "//", "/*", "<!--"],
+            "answer": "#"
+        },
+        {
+            "question": "Which data type stores True or False values?",
+            "options": ["bool", "int", "str", "list"],
+            "answer": "bool"
+        },
+        {
+            "question": "Which keyword is used to create a function in Python?",
+            "options": ["def", "function", "func", "create"],
+            "answer": "def"
+        },
+        {
+            "question": "Which Python data type stores an ordered collection that can be changed?",
+            "options": ["list", "tuple", "string", "integer"],
+            "answer": "list"
+        },
+        {
+            "question": "What does len() return?",
+            "options": ["The length of an object", "The type of an object", "The largest value", "The smallest value"],
+            "answer": "The length of an object"
+        },
+        {
+            "question": "Which keyword is used for decision making in Python?",
+            "options": ["if", "for", "while", "import"],
+            "answer": "if"
+        },
+        {
+            "question": "Which loop is commonly used to repeat code a fixed number of times?",
+            "options": ["for", "try", "class", "with"],
+            "answer": "for"
+        },
+        {
+            "question": "Which module can generate random numbers in Python?",
+            "options": ["random", "math", "json", "tkinter"],
+            "answer": "random"
+        }
+    ],
+    "C": [
+        {
+            "question": "What is the usual file extension for C source files?",
+            "options": [".c", ".cpp", ".java", ".py"],
+            "answer": ".c"
+        },
+        {
+            "question": "Which function is commonly used to print output in C?",
+            "options": ["printf()", "cout", "print()", "System.out.println()"],
+            "answer": "printf()"
+        },
+        {
+            "question": "Which header file is needed for printf()?",
+            "options": ["stdio.h", "math.h", "string.h", "stdlib.h"],
+            "answer": "stdio.h"
+        },
+        {
+            "question": "Which symbol ends most C statements?",
+            "options": [";", ":", ".", ","],
+            "answer": ";"
+        },
+        {
+            "question": "Which keyword is used to store whole numbers in C?",
+            "options": ["int", "float", "char", "double"],
+            "answer": "int"
+        },
+        {
+            "question": "Which operator is used for assignment in C?",
+            "options": ["=", "==", "+", "!="],
+            "answer": "="
+        },
+        {
+            "question": "Which keyword starts a conditional statement in C?",
+            "options": ["if", "loop", "check", "case"],
+            "answer": "if"
+        },
+        {
+            "question": "Which function is the starting point of a C program?",
+            "options": ["main()", "start()", "run()", "program()"],
+            "answer": "main()"
+        }
+    ],
+    "C++": [
+        {
+            "question": "What is a common file extension for C++ source files?",
+            "options": [".cpp", ".c", ".java", ".js"],
+            "answer": ".cpp"
+        },
+        {
+            "question": "Which object is commonly used for output in C++?",
+            "options": ["cout", "printf", "print", "Console"],
+            "answer": "cout"
+        },
+        {
+            "question": "Which header is commonly included for cout?",
+            "options": ["iostream", "stdio.h", "string.h", "math.h"],
+            "answer": "iostream"
+        },
+        {
+            "question": "Which operator is used with cout to send output?",
+            "options": ["<<", ">>", "==", "&&"],
+            "answer": "<<"
+        },
+        {
+            "question": "Which keyword is used to create a class in C++?",
+            "options": ["class", "object", "structs", "define"],
+            "answer": "class"
+        },
+        {
+            "question": "Which namespace is often used with cout and cin?",
+            "options": ["std", "main", "system", "io"],
+            "answer": "std"
+        },
+        {
+            "question": "Which function is the starting point of a C++ program?",
+            "options": ["main()", "start()", "begin()", "run()"],
+            "answer": "main()"
+        },
+        {
+            "question": "Which data type is used for true or false values in C++?",
+            "options": ["bool", "int", "char", "float"],
+            "answer": "bool"
+        }
+    ],
+    "Java": [
+        {
+            "question": "What is the file extension for Java source files?",
+            "options": [".java", ".class", ".py", ".html"],
+            "answer": ".java"
+        },
+        {
+            "question": "Which keyword is used to create a class in Java?",
+            "options": ["class", "def", "function", "struct"],
+            "answer": "class"
+        },
+        {
+            "question": "Which method is the starting point of a Java program?",
+            "options": ["main", "start", "run", "begin"],
+            "answer": "main"
+        },
+        {
+            "question": "Which statement prints a line in Java?",
+            "options": ["System.out.println()", "print()", "cout", "printf()"],
+            "answer": "System.out.println()"
+        },
+        {
+            "question": "Which keyword creates an object in Java?",
+            "options": ["new", "make", "create", "object"],
+            "answer": "new"
+        },
+        {
+            "question": "Which data type stores whole numbers in Java?",
+            "options": ["int", "double", "String", "boolean"],
+            "answer": "int"
+        },
+        {
+            "question": "Which data type stores true or false in Java?",
+            "options": ["boolean", "int", "char", "String"],
+            "answer": "boolean"
+        },
+        {
+            "question": "Which symbol ends most Java statements?",
+            "options": [";", ":", ".", ","],
+            "answer": ";"
+        }
+    ],
+    "JavaScript": [
+        {
+            "question": "What is the common file extension for JavaScript files?",
+            "options": [".js", ".java", ".py", ".css"],
+            "answer": ".js"
+        },
+        {
+            "question": "Which keyword can declare a variable in modern JavaScript?",
+            "options": ["let", "int", "string", "define"],
+            "answer": "let"
+        },
+        {
+            "question": "Which function can show a browser alert box?",
+            "options": ["alert()", "print()", "message()", "show()"],
+            "answer": "alert()"
+        },
+        {
+            "question": "Which symbol starts a single-line comment in JavaScript?",
+            "options": ["//", "#", "<!--", "**"],
+            "answer": "//"
+        },
+        {
+            "question": "Which value means no value in JavaScript?",
+            "options": ["null", "none", "empty", "blank"],
+            "answer": "null"
+        },
+        {
+            "question": "Which operator checks both value and type in JavaScript?",
+            "options": ["===", "=", "==", "!="],
+            "answer": "==="
+        },
+        {
+            "question": "Which keyword is used to create a function?",
+            "options": ["function", "def", "func", "method"],
+            "answer": "function"
+        },
+        {
+            "question": "Which object is commonly used to write messages to the developer console?",
+            "options": ["console", "window", "document", "screen"],
+            "answer": "console"
+        }
+    ],
+    "HTML": [
+        {
+            "question": "What does HTML stand for?",
+            "options": ["HyperText Markup Language", "HighText Machine Language", "HyperTool Markup Language", "HomeText Markup Language"],
+            "answer": "HyperText Markup Language"
+        },
+        {
+            "question": "Which tag is used for the largest heading?",
+            "options": ["<h1>", "<head>", "<title>", "<p>"],
+            "answer": "<h1>"
+        },
+        {
+            "question": "Which tag is used to create a paragraph?",
+            "options": ["<p>", "<a>", "<img>", "<div>"],
+            "answer": "<p>"
+        },
+        {
+            "question": "Which tag is used to create a link?",
+            "options": ["<a>", "<link>", "<href>", "<url>"],
+            "answer": "<a>"
+        },
+        {
+            "question": "Which attribute gives the destination of a link?",
+            "options": ["href", "src", "alt", "id"],
+            "answer": "href"
+        },
+        {
+            "question": "Which tag is used to display an image?",
+            "options": ["<img>", "<image>", "<pic>", "<photo>"],
+            "answer": "<img>"
+        },
+        {
+            "question": "Which tag contains the visible page content?",
+            "options": ["<body>", "<head>", "<title>", "<meta>"],
+            "answer": "<body>"
+        },
+        {
+            "question": "Which tag is used for an unordered list?",
+            "options": ["<ul>", "<ol>", "<li>", "<list>"],
+            "answer": "<ul>"
+        }
+    ]
+}

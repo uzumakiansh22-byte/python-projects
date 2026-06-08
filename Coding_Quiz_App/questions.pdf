@@ -1,0 +1,507 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1278 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(Coding Quiz Questions) Tj
+T* () Tj
+T* (Python) Tj
+T* () Tj
+T* (1. What is the correct extension for Python files?) Tj
+T* (1\) .py) Tj
+T* (2\) .java) Tj
+T* (3\) .cpp) Tj
+T* (4\) .html) Tj
+T* (Correct answer: .py) Tj
+T* () Tj
+T* (2. Which function is used to display text on the screen in Python?) Tj
+T* (1\) print\(\)) Tj
+T* (2\) echo\(\)) Tj
+T* (3\) show\(\)) Tj
+T* (4\) display\(\)) Tj
+T* (Correct answer: print\(\)) Tj
+T* () Tj
+T* (3. Which symbol starts a comment in Python?) Tj
+T* (1\) #) Tj
+T* (2\) //) Tj
+T* (3\) /*) Tj
+T* (4\) <!--) Tj
+T* (Correct answer: #) Tj
+T* () Tj
+T* (4. Which data type stores True or False values?) Tj
+T* (1\) bool) Tj
+T* (2\) int) Tj
+T* (3\) str) Tj
+T* (4\) list) Tj
+T* (Correct answer: bool) Tj
+T* () Tj
+T* (5. Which keyword is used to create a function in Python?) Tj
+T* (1\) def) Tj
+T* (2\) function) Tj
+T* (3\) func) Tj
+T* (4\) create) Tj
+T* (Correct answer: def) Tj
+T* () Tj
+T* (6. Which Python data type stores an ordered collection that can be changed?) Tj
+T* (1\) list) Tj
+T* (2\) tuple) Tj
+T* (3\) string) Tj
+T* (4\) integer) Tj
+T* (Correct answer: list) Tj
+T* () Tj
+T* (7. What does len\(\) return?) Tj
+T* (1\) The length of an object) Tj
+T* (2\) The type of an object) Tj
+T* (3\) The largest value) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1283 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(4\) The smallest value) Tj
+T* (Correct answer: The length of an object) Tj
+T* () Tj
+T* (8. Which keyword is used for decision making in Python?) Tj
+T* (1\) if) Tj
+T* (2\) for) Tj
+T* (3\) while) Tj
+T* (4\) import) Tj
+T* (Correct answer: if) Tj
+T* () Tj
+T* (9. Which loop is commonly used to repeat code a fixed number of times?) Tj
+T* (1\) for) Tj
+T* (2\) try) Tj
+T* (3\) class) Tj
+T* (4\) with) Tj
+T* (Correct answer: for) Tj
+T* () Tj
+T* (10. Which module can generate random numbers in Python?) Tj
+T* (1\) random) Tj
+T* (2\) math) Tj
+T* (3\) json) Tj
+T* (4\) tkinter) Tj
+T* (Correct answer: random) Tj
+T* () Tj
+T* () Tj
+T* (C) Tj
+T* () Tj
+T* (1. What is the usual file extension for C source files?) Tj
+T* (1\) .c) Tj
+T* (2\) .cpp) Tj
+T* (3\) .java) Tj
+T* (4\) .py) Tj
+T* (Correct answer: .c) Tj
+T* () Tj
+T* (2. Which function is commonly used to print output in C?) Tj
+T* (1\) printf\(\)) Tj
+T* (2\) cout) Tj
+T* (3\) print\(\)) Tj
+T* (4\) System.out.println\(\)) Tj
+T* (Correct answer: printf\(\)) Tj
+T* () Tj
+T* (3. Which header file is needed for printf\(\)?) Tj
+T* (1\) stdio.h) Tj
+T* (2\) math.h) Tj
+T* (3\) string.h) Tj
+T* (4\) stdlib.h) Tj
+T* (Correct answer: stdio.h) Tj
+T* () Tj
+T* (4. Which symbol ends most C statements?) Tj
+T* (1\) ;) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1151 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(2\) :) Tj
+T* (3\) .) Tj
+T* (4\) ,) Tj
+T* (Correct answer: ;) Tj
+T* () Tj
+T* (5. Which keyword is used to store whole numbers in C?) Tj
+T* (1\) int) Tj
+T* (2\) float) Tj
+T* (3\) char) Tj
+T* (4\) double) Tj
+T* (Correct answer: int) Tj
+T* () Tj
+T* (6. Which operator is used for assignment in C?) Tj
+T* (1\) =) Tj
+T* (2\) ==) Tj
+T* (3\) +) Tj
+T* (4\) !=) Tj
+T* (Correct answer: =) Tj
+T* () Tj
+T* (7. Which keyword starts a conditional statement in C?) Tj
+T* (1\) if) Tj
+T* (2\) loop) Tj
+T* (3\) check) Tj
+T* (4\) case) Tj
+T* (Correct answer: if) Tj
+T* () Tj
+T* (8. Which function is the starting point of a C program?) Tj
+T* (1\) main\(\)) Tj
+T* (2\) start\(\)) Tj
+T* (3\) run\(\)) Tj
+T* (4\) program\(\)) Tj
+T* (Correct answer: main\(\)) Tj
+T* () Tj
+T* () Tj
+T* (C++) Tj
+T* () Tj
+T* (1. What is a common file extension for C++ source files?) Tj
+T* (1\) .cpp) Tj
+T* (2\) .c) Tj
+T* (3\) .java) Tj
+T* (4\) .js) Tj
+T* (Correct answer: .cpp) Tj
+T* () Tj
+T* (2. Which object is commonly used for output in C++?) Tj
+T* (1\) cout) Tj
+T* (2\) printf) Tj
+T* (3\) print) Tj
+T* (4\) Console) Tj
+T* (Correct answer: cout) Tj
+T* () Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 1230 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(3. Which header is commonly included for cout?) Tj
+T* (1\) iostream) Tj
+T* (2\) stdio.h) Tj
+T* (3\) string.h) Tj
+T* (4\) math.h) Tj
+T* (Correct answer: iostream) Tj
+T* () Tj
+T* (4. Which operator is used with cout to send output?) Tj
+T* (1\) <<) Tj
+T* (2\) >>) Tj
+T* (3\) ==) Tj
+T* (4\) &&) Tj
+T* (Correct answer: <<) Tj
+T* () Tj
+T* (5. Which keyword is used to create a class in C++?) Tj
+T* (1\) class) Tj
+T* (2\) object) Tj
+T* (3\) structs) Tj
+T* (4\) define) Tj
+T* (Correct answer: class) Tj
+T* () Tj
+T* (6. Which namespace is often used with cout and cin?) Tj
+T* (1\) std) Tj
+T* (2\) main) Tj
+T* (3\) system) Tj
+T* (4\) io) Tj
+T* (Correct answer: std) Tj
+T* () Tj
+T* (7. Which function is the starting point of a C++ program?) Tj
+T* (1\) main\(\)) Tj
+T* (2\) start\(\)) Tj
+T* (3\) begin\(\)) Tj
+T* (4\) run\(\)) Tj
+T* (Correct answer: main\(\)) Tj
+T* () Tj
+T* (8. Which data type is used for true or false values in C++?) Tj
+T* (1\) bool) Tj
+T* (2\) int) Tj
+T* (3\) char) Tj
+T* (4\) float) Tj
+T* (Correct answer: bool) Tj
+T* () Tj
+T* () Tj
+T* (Java) Tj
+T* () Tj
+T* (1. What is the file extension for Java source files?) Tj
+T* (1\) .java) Tj
+T* (2\) .class) Tj
+T* (3\) .py) Tj
+T* (4\) .html) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1246 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(Correct answer: .java) Tj
+T* () Tj
+T* (2. Which keyword is used to create a class in Java?) Tj
+T* (1\) class) Tj
+T* (2\) def) Tj
+T* (3\) function) Tj
+T* (4\) struct) Tj
+T* (Correct answer: class) Tj
+T* () Tj
+T* (3. Which method is the starting point of a Java program?) Tj
+T* (1\) main) Tj
+T* (2\) start) Tj
+T* (3\) run) Tj
+T* (4\) begin) Tj
+T* (Correct answer: main) Tj
+T* () Tj
+T* (4. Which statement prints a line in Java?) Tj
+T* (1\) System.out.println\(\)) Tj
+T* (2\) print\(\)) Tj
+T* (3\) cout) Tj
+T* (4\) printf\(\)) Tj
+T* (Correct answer: System.out.println\(\)) Tj
+T* () Tj
+T* (5. Which keyword creates an object in Java?) Tj
+T* (1\) new) Tj
+T* (2\) make) Tj
+T* (3\) create) Tj
+T* (4\) object) Tj
+T* (Correct answer: new) Tj
+T* () Tj
+T* (6. Which data type stores whole numbers in Java?) Tj
+T* (1\) int) Tj
+T* (2\) double) Tj
+T* (3\) String) Tj
+T* (4\) boolean) Tj
+T* (Correct answer: int) Tj
+T* () Tj
+T* (7. Which data type stores true or false in Java?) Tj
+T* (1\) boolean) Tj
+T* (2\) int) Tj
+T* (3\) char) Tj
+T* (4\) String) Tj
+T* (Correct answer: boolean) Tj
+T* () Tj
+T* (8. Which symbol ends most Java statements?) Tj
+T* (1\) ;) Tj
+T* (2\) :) Tj
+T* (3\) .) Tj
+T* (4\) ,) Tj
+T* (Correct answer: ;) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1210 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+() Tj
+T* () Tj
+T* (JavaScript) Tj
+T* () Tj
+T* (1. What is the common file extension for JavaScript files?) Tj
+T* (1\) .js) Tj
+T* (2\) .java) Tj
+T* (3\) .py) Tj
+T* (4\) .css) Tj
+T* (Correct answer: .js) Tj
+T* () Tj
+T* (2. Which keyword can declare a variable in modern JavaScript?) Tj
+T* (1\) let) Tj
+T* (2\) int) Tj
+T* (3\) string) Tj
+T* (4\) define) Tj
+T* (Correct answer: let) Tj
+T* () Tj
+T* (3. Which function can show a browser alert box?) Tj
+T* (1\) alert\(\)) Tj
+T* (2\) print\(\)) Tj
+T* (3\) message\(\)) Tj
+T* (4\) show\(\)) Tj
+T* (Correct answer: alert\(\)) Tj
+T* () Tj
+T* (4. Which symbol starts a single-line comment in JavaScript?) Tj
+T* (1\) //) Tj
+T* (2\) #) Tj
+T* (3\) <!--) Tj
+T* (4\) **) Tj
+T* (Correct answer: //) Tj
+T* () Tj
+T* (5. Which value means no value in JavaScript?) Tj
+T* (1\) null) Tj
+T* (2\) none) Tj
+T* (3\) empty) Tj
+T* (4\) blank) Tj
+T* (Correct answer: null) Tj
+T* () Tj
+T* (6. Which operator checks both value and type in JavaScript?) Tj
+T* (1\) ===) Tj
+T* (2\) =) Tj
+T* (3\) ==) Tj
+T* (4\) !=) Tj
+T* (Correct answer: ===) Tj
+T* () Tj
+T* (7. Which keyword is used to create a function?) Tj
+T* (1\) function) Tj
+T* (2\) def) Tj
+T* (3\) func) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1279 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(4\) method) Tj
+T* (Correct answer: function) Tj
+T* () Tj
+T* (8. Which object is commonly used to write messages to the developer console?) Tj
+T* (1\) console) Tj
+T* (2\) window) Tj
+T* (3\) document) Tj
+T* (4\) screen) Tj
+T* (Correct answer: console) Tj
+T* () Tj
+T* () Tj
+T* (HTML) Tj
+T* () Tj
+T* (1. What does HTML stand for?) Tj
+T* (1\) HyperText Markup Language) Tj
+T* (2\) HighText Machine Language) Tj
+T* (3\) HyperTool Markup Language) Tj
+T* (4\) HomeText Markup Language) Tj
+T* (Correct answer: HyperText Markup Language) Tj
+T* () Tj
+T* (2. Which tag is used for the largest heading?) Tj
+T* (1\) <h1>) Tj
+T* (2\) <head>) Tj
+T* (3\) <title>) Tj
+T* (4\) <p>) Tj
+T* (Correct answer: <h1>) Tj
+T* () Tj
+T* (3. Which tag is used to create a paragraph?) Tj
+T* (1\) <p>) Tj
+T* (2\) <a>) Tj
+T* (3\) <img>) Tj
+T* (4\) <div>) Tj
+T* (Correct answer: <p>) Tj
+T* () Tj
+T* (4. Which tag is used to create a link?) Tj
+T* (1\) <a>) Tj
+T* (2\) <link>) Tj
+T* (3\) <href>) Tj
+T* (4\) <url>) Tj
+T* (Correct answer: <a>) Tj
+T* () Tj
+T* (5. Which attribute gives the destination of a link?) Tj
+T* (1\) href) Tj
+T* (2\) src) Tj
+T* (3\) alt) Tj
+T* (4\) id) Tj
+T* (Correct answer: href) Tj
+T* () Tj
+T* (6. Which tag is used to display an image?) Tj
+T* (1\) <img>) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 467 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(2\) <image>) Tj
+T* (3\) <pic>) Tj
+T* (4\) <photo>) Tj
+T* (Correct answer: <img>) Tj
+T* () Tj
+T* (7. Which tag contains the visible page content?) Tj
+T* (1\) <body>) Tj
+T* (2\) <head>) Tj
+T* (3\) <title>) Tj
+T* (4\) <meta>) Tj
+T* (Correct answer: <body>) Tj
+T* () Tj
+T* (8. Which tag is used for an unordered list?) Tj
+T* (1\) <ul>) Tj
+T* (2\) <ol>) Tj
+T* (3\) <li>) Tj
+T* (4\) <list>) Tj
+T* (Correct answer: <ul>) Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000161 00000 n 
+0000000336 00000 n 
+0000001666 00000 n 
+0000001841 00000 n 
+0000003176 00000 n 
+0000003351 00000 n 
+0000004554 00000 n 
+0000004730 00000 n 
+0000006013 00000 n 
+0000006190 00000 n 
+0000007489 00000 n 
+0000007666 00000 n 
+0000008929 00000 n 
+0000009106 00000 n 
+0000010438 00000 n 
+0000010615 00000 n 
+trailer
+<< /Size 19 /Root 1 0 R >>
+startxref
+11134
+%%EOF
